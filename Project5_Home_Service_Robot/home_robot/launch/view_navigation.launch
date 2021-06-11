@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+  <!-- The add_markers node -->
+  <node name="add_markers" type="add_markers" pkg="add_markers" output="screen">
+  </node>
+
+  <!-- The pick_objects node -->
+  <node name="pick_objects" type="pick_objects" pkg="pick_objects" output="screen">
+  </node>
+
+</launch>
+
