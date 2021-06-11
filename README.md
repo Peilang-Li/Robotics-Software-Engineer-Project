@@ -11,3 +11,5 @@ Utilize ROS packages to accurately localize a mobile robot inside a provided map
 Utilize ROS AMCL package to accurately localize a mobile robot inside a map in the Gazebo simulation environments.
 ## Map My World
 Create a 2D occupancy grid and 3D octomap from a simulated environment using the previous robot with the RTAB-Map package。
+## Home Service Robot
+Simulate a full home service robot capable of navigating to pick up and deliver virtual objects. 
